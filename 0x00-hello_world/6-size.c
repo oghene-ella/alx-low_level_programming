@@ -4,6 +4,7 @@
  * Return: Always 0
 */
 main(void)
+{
 	int(void)
 	{
 		printf("Size of a char: %i byte(s)\n", sizeof(char));
@@ -15,3 +16,4 @@ main(void)
 		printf("Size of a float: %i byte(s)\n", sizeof(float));
 		return (0);
 	}
+}
