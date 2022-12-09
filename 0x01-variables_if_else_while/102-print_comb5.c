@@ -33,7 +33,7 @@ int main(void)
 				putchar(' ');
 				putchar(f_d2);
 				putchar(l_d2);
-				
+
 				if (c != 98)
 				{
 					putchar(',');
