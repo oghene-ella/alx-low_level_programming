@@ -38,7 +38,6 @@ int main(void)
 				{
 					putchar(',');
 					putchar(' ');
-
 				}
 			}
 			c2++;
