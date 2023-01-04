@@ -1,11 +1,11 @@
 #include "main.h"
 #include <stdio.h>
+
 /**
  * is_prime_number - check if n is a prime number
  * @n: int
  * Return: 0 or 1
- */
-
+*/
 
 int is_prime_number(int n)
 {
@@ -17,7 +17,7 @@ int is_prime_number(int n)
  * @n: int
  * @resp: int
  * Return: int
- */
+*/
 
 int check_prime(int n, int resp)
 {
