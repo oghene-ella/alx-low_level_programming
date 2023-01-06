@@ -8,7 +8,7 @@
  * @argc: n args
  * @argv: arr args
  * Return: 0
- */
+*/
 int main(int argc, char *argv[])
 {
 	unsigned int i, sum, num;

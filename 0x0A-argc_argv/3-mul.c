@@ -6,7 +6,7 @@
  * @argc: n args
  * @argv: arr args
  * Return: 0
- */
+*/
 int main(int argc, char *argv[])
 {
 	int i, val = 1;
