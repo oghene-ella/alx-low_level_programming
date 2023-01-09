@@ -5,7 +5,7 @@
  * @grid: pointer to 2D arrays
  * @height: array
  * Return: void
- */
+*/
 
 void free_grid(int **grid, int height)
 {
