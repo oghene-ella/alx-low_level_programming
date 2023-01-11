@@ -6,7 +6,7 @@
  * @s1: input
  * @s2: input
  * Return: 0
- */
+*/
 char *str_concat(char *s1, char *s2)
 {
 	unsigned int size1 = 0, size2 = 0;

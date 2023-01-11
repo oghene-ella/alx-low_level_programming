@@ -5,7 +5,7 @@
  * @ac: input
  * @av: input
  * Return: 0
- */
+*/
 char *argstostr(int ac, char **av)
 {
 	int i, n, k = 0, len = 0;
