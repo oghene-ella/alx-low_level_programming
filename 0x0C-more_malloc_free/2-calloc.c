@@ -6,7 +6,7 @@
  * @nmemb: input
  * @size: input
  * Return: 0
- */
+*/
 void *_calloc(unsigned int nmemb, unsigned int size)
 {
 	char *p;
